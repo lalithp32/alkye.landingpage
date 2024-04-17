@@ -413,8 +413,9 @@ a:hover .right:after {
 .swapn {
     object-fit: cover;
     display: flex;
-    gap: 5px;
+    gap: 15px;
     height: 50vh;
+    margin-left: 15px;
 
 }
 
@@ -426,12 +427,13 @@ a:hover .right:after {
     text-align: jutify;
     width: 48em;
     margin-top: 40px;
-    margin-left: 2em;
+    margin-left: 5em;
     font-size: 10px;
 }
 
 .withparah {
     display: flex;
+    margin-left: 15px;
 }
 
 .diversity2 {
@@ -448,10 +450,10 @@ a:hover .right:after {
 }
 
 .imagead>img {
-    margin-left: em;
-    width: 91em;
-    height: 57.5vh;
-    margin-top: 25px;
+    margin-left: 4em;
+    width: 83em;
+    height: 55vh;
+    margin-top: 8em;
 }
 
 .diversity3 {
@@ -463,7 +465,7 @@ a:hover .right:after {
 
 .parah4 {
     margin-top: 30px;
-    margin-left: 3em;
+    margin-left: 1em;
 
 }
 
